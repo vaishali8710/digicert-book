@@ -81,7 +81,7 @@ public class BookController {
   }
 
   /**
-   * Adds a Book information in the Library with provided BookRequest
+   * Updates a Book information in the Library with provided BookRequest
    * @param id book id
    * @param bookRequest bookRequest
    * @return BookResponse message
